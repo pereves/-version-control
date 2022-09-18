@@ -68,3 +68,21 @@
 >git branch new_branch
 
 ***
+
+## *4. Переходим на ветку с именем new_branch*
+
+>git checkout new_branch
+
+***
+
+## *5. Выводим список изменений в виде графа/дерева*
+
+>git log --graph
+
+***
+
+## *6. Сливает ветку branch_name с текущей меткой*
+
+>git merge branch_name
+
+***
