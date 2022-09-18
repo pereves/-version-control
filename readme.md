@@ -68,3 +68,9 @@
 >git branch new_branch
 
 ***
+
+## *3. Удаляем ветку с именем new_branch*
+
+>git branch -d new_branch
+
+***
