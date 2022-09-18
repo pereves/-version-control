@@ -62,3 +62,9 @@
 >git branch
 
 ***
+
+## *2. Создаем новую ветку с именем new_branch*
+
+>git branch new_branch
+
+***
